@@ -2,7 +2,7 @@
 title: A personal portfolio about software
 description: A personal portfolio about design, development software systems
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://laoth.github.io/portfolio/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Gustavo Sánchez
